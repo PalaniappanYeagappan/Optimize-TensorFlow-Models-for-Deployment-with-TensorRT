@@ -40,10 +40,10 @@ In this project, I worked on:
 ---
 
 ## 📜 Certificate  
-[View Coursera Certificate](#https://coursera.org/share/0ae4fa0395600c39e1430a9e92884dd4)  <!-- Replace # with the actual certificate link -->
+[View Coursera Certificate](https://coursera.org/share/0ae4fa0395600c39e1430a9e92884dd4)
 
 ---
 
 ## 🤝 Connect  
 If you are working on AI deployment or model optimization, feel free to connect with me:  
-[LinkedIn Profile](#https://www.linkedin.com/in/palaniappan-yeagappan/)
+[LinkedIn Profile](https://www.linkedin.com/in/palaniappan-yeagappan/)
