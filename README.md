@@ -33,9 +33,9 @@ In this project, I worked on:
 
 ## 📂 Repository Structure  
 --> 📁 notebooks/ # Jupyter Notebooks with optimization steps
-- 📁 models/ # Sample models for testing optimization
-- 📁 benchmarks/ # Performance benchmarks and results
-- README.md # Project documentation
+--> 📁 models/ # Sample models for testing optimization
+--> 📁 benchmarks/ # Performance benchmarks and results
+--> README.md # Project documentation
 
 ---
 
